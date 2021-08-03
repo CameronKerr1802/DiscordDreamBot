@@ -6,7 +6,7 @@ import asyncio
 
 client = discord.Client()
 
-Token = "ODUzNDMyNTI0ODIxNzU3OTUy.YMVS-Q.skol-rpObJvols05OxomwPPLtxU"
+Token = ""
 
 # global dream_modes
 client.dream_modes = ['Rush', 'Ultimate', 'Castle', 'Voidless', 'Armed', 'Lucky Blocks']
